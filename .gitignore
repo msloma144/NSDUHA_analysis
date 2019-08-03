@@ -2,4 +2,5 @@
 .idea/
 DS0001/
 *.py
+*.xlsx
 data_cleaned/
