@@ -14,3 +14,5 @@ Michael Sloma
 
 ## Data Sources
 * [National Survey on Drug Use and Health](https://www.datafiles.samhsa.gov/study/national-survey-drug-use-and-health-nsduh-2012-nid13601 "SAMHSA")
+
+**Note:** sometimes IPython notebooks on GitHub don't work as expected, but you can always view them using [nbviewer](https://nbviewer.jupyter.org/).
